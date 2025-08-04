@@ -58,6 +58,7 @@ but the full story is much more complex.
 - `Titanic_Dashboard.xlsx` – Final dashboard and visualizations  
 - `Titanic_CleanedData.xlsx` – Cleaned and prepared dataset  
 - `Titanic_Presentation.pdf` – Summary of findings in presentation format  
+![Dashboard Preview](Dashboard_preview.png)
 
 
 ## 🙌 Acknowledgment
